@@ -1,2 +1,4 @@
-# datascience
-All about Data Science of mine 
+Modeling project
+Type 1：JOB
+Type 2：LEARN
+ 
